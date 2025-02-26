@@ -1,5 +1,3 @@
-# Cancer-Information-Retriveal-System
-
 # Cancer Information Retrieval System
 
 ## Overview
